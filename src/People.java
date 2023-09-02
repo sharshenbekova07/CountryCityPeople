@@ -6,6 +6,8 @@ public class People {
     private String fio;
     private Date birthDate;
     private Integer city_id;
+    private Integer number;
+
 
     public Integer getId() {
         return id;
