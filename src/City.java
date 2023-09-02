@@ -5,6 +5,9 @@ public class City {
     private Integer population;
     private  String fioMayor;
 
+
+
+
     public Integer getId() {
         return id;
     }
